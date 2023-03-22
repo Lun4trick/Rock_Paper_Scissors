@@ -7,12 +7,13 @@ The main objective of this game is to select a choice of rock, paper, or scissor
 
 Features:
 
-User-friendly interface
-Responsive design for all devices
-Classic rock paper scissors game with a modern twist
-Option to play again after each round
+- User-friendly interface
+- Responsive design for all devices
+- Classic rock paper scissors game with a modern twist
+- Option to play again after each round
+
 Tech stack:
 
-React: Used for building the front-end interface of the game
-Tailwind: Used for designing the user interface and applying styles
-TypeScript: Used for ensuring type safety and increasing the scalability of the codebase
+- React: Used for building the front-end interface of the game
+- Tailwind: Used for designing the user interface and applying styles
+- TypeScript: Used for ensuring type safety and increasing the scalability of the codebase
