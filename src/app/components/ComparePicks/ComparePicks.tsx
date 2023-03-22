@@ -52,7 +52,7 @@ export const ComparePicks: React.FC<Props> = ({
           alt='rock'
         />
       </div>
-      <div className='flex flex-col items-center gap-10 justify-center h-fit p-5 sm:order-2 order-last'>
+      <div className='flex flex-col items-center gap-10 justify-center h-fit p-5 sm:order-2 order-last min-w-[270px]'>
         <p className='text-slate-300 uppercase font-bold text-5xl text-center'>
           {winner}
         </p>
