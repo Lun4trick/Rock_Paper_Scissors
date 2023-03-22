@@ -1,5 +1,7 @@
 This game is a classic and simple game that almost everyone knows how to play. I created this game using React, Tailwind, and TypeScript.
 
+[DEMO](https://rock-paper-scissors-inktj0yv8-lun4trick.vercel.app/)
+
 Objective:
 The main objective of this game is to select a choice of rock, paper, or scissors, and the computer will randomly generate its choice. The winner of the game will be determined by comparing the player's choice and the computer's choice.
 
