@@ -85,7 +85,7 @@ export const App: React.FC = () => {
         </button>
       </section>
         {isRulesOpen && (
-          <RulesModal onModalClose={modalCloseHandler} isModalOpen={isRulesOpen} />
+          <RulesModal onModalClose={modalCloseHandler} />
         )}
     </main>
   );

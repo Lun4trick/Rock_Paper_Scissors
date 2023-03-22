@@ -3,9 +3,8 @@ import cn from 'classnames';
 
 type Props = {
   onModalClose: () => void,
-  isModalOpen: boolean,
 }
-export const RulesModal: React.FC<Props> = ({ onModalClose, isModalOpen }) => (
+export const RulesModal: React.FC<Props> = ({ onModalClose }) => (
   <div className='flex fixed top-0 h-screen w-screen bg-opacity-40 bg-black'>
     <div 
     className={cn(
